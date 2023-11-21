@@ -93,7 +93,7 @@ module OmniAuth
           'id' => 'id',
           'first-name' => 'firstName',
           'last-name' => 'lastName',
-          'picture-url' => 'profilePicture(displayImage~:playableStreams)',
+          'picture-url' => 'profilePicture(displayImage~:playableStreams)'
           'vanity-name' => 'vanityName',
           'maiden-name' => 'maidenName',
           'headline' => 'headline'
